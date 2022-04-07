@@ -1,22 +1,10 @@
-# Actuarial Theory and Practice A
+# SOA Case Study 2022: Rarita Football League
 
-_"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
+### Team Control Cycle
+Sumeet Singh, James Li, Asel Lewliyadde, Ngoc Phuong Dung Vo, Kawitsara Boonvisud
 
----
 
-### Congrats on completing the [2022 SOA Research Challenge](https://www.soa.org/research/opportunities/2022-student-research-case-study-challenge/)!
+## Project Outline
+This repository showcases our attempt at the [SOA Student Case Study 2022](https://www.soa.org/research/opportunities/2022-student-research-case-study-challenge).  
 
->Now it's time to build your own website to showcase your work.  
->To create a website on GitHub Pages to showcase your work is very easy.
-
-This is written in markdown language. 
->
-* Click [4001 link](https://classroom.github.com/a/ggiq0YzO) to accept your group assignment.
-* Click [5100 link](https://classroom.github.com/a/uVytCqDv) to accept your group assignment 
-
-#### Follow the [guide doc](Doc1.pdf) to submit your work. 
----
->Be creative! Feel free to link to embed your [data](player_data_salaries_2020.csv), [code](sample-data-clean.ipynb), [image](ACC.png) here
-
-More information on GitHub Pages can be found [here](https://pages.github.com/)
-![](Actuarial.gif)
+We were proposed with buiding a competitive soccer team to build a long-term brand for Rarita's football program that will propel economic growth and prosperity in Rarita. We employed methods such as gradient boosting machines and linear regression to provide rationale to our team selection. With our proposed squad, we then proposed an implementation plan with the assumptions that our team selection will lead to a competitive result in the FSA league, and an economic analysis was then conducted that studied the impacts of the year cashflows of this team to Rarita's GDP, GNI and other relevant measures. Additionally, preventative measures such as building out a larger squad, diversifying assets and purchasing indemnity insurance are part of the mitigating measures made to de-risk the potential scenarios associated with constructing an elite football team. 
