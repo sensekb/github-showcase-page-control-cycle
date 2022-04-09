@@ -31,6 +31,7 @@ To formalise our procedure for team selection we produced player ratings to prov
 
 ## Implementation Plan
 
+![Figure 2](Proposed&Expenses.png)
 
 
 ## Risk Consideration
