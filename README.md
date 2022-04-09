@@ -29,6 +29,10 @@ To formalise our procedure for team selection we produced player ratings to prov
 
 ![Figure 1](Shooting%20Rel%20Influence.png)
 
+## Implementation Plan
+
+
+
 ## Risk Consideration
 
 As part of our risk considerations, we aimed at creating a safe sporting environment for our players whilst managing the various liability and investment risks that could potentially occur. We broke this down into 4 main areas; health, reputational, operational and investment risk. The health risk was quite easy to identify and mainly concerns the fitness and ongoing health status of our players. We added extra players into the squad in case any sickness or injuries affect our starting 11. As part of our operational risks, we want to ensure that our projected revenues are not too volatile and that it can sustain our costs. We aim to allocate into stable revenue streams such as extending broadcasting contracts. Moreover, we can mitigate investment risks by diversifying our investments into both short term assets and long term bonds.
