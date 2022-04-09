@@ -25,7 +25,9 @@ Our initial 11 player squad consisted of the following players:
 |DF|Q.bin Ismail|920,000|
 |GK|F. Akuma|15,461,250|
 
-To formalise our procedure for team selection we produced player ratings to provide a clear numeric comparison between the numerous players that could be chosen by aggregating weighted key performance indicators. A generalised boosting algorithm was trained to determine the player statistics that are key in predicting the success of the team they belong to through the variable importance. The variable importance  acted as a proxy to then determine the weights to apply to key player performance indicators to then be aggregated into the overall rating. 
+To formalise our procedure for team selection we produced player ratings to provide a clear numeric comparison between the numerous players that could be chosen by aggregating weighted key performance indicators. A generalised boosting algorithm was trained to determine the player statistics that are key in predicting the success of the team they belong to through the variable importance. The variable importance  acted as a proxy to then determine the weights to apply to key player performance indicators to then be aggregated into the overall rating. The plot below shows the relative influence as determined by the boosting algorithm and was used to assign weights to the individual key player indicators to provide an aggregate rating. This process was repeated for all the 4 positions.
+
+![Figure 1](Shooting%20Rel%20Influence.png)
 
 ## Risk Consideration
 
