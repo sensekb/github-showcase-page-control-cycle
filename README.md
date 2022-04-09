@@ -31,6 +31,8 @@ To formalise our procedure for team selection we produced player ratings to prov
 
 ## Implementation Plan
 
+We projected the revenues and expenses from having a national football team for the next 10 years. Revenues and expenses were each categorised into 3 main groups, including matchday, broadcast and commercial for the former, players' salaries, other staff's salaries and other expenses for the later. In the first 5 years, revenues were expected to increase with inflation and have no significant changes, except for commercial revenue with 6% increase in the first year due to new contracts and sponsorship signed. In contrast, apart from increasing with inflation, expenses were forecasted to rise at a significant rate for the first few years, due to staffs' salaries of a new established team and a large amount of investment required for marketing campaign, social media promoting, facility management and the various training personnel. 
+
 ![Figure 2](Proposed%20Expenses.png)
 ![Figure 3](Proposed%20Revenues.png)
 
